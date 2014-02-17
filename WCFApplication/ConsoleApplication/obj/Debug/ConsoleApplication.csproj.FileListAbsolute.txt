@@ -1,0 +1,8 @@
+C:\Users\derk.wang\Documents\Visual Studio 2013\Projects\WCFApplication\ConsoleApplication\bin\Debug\EmployeeManagementConsole.exe.config
+C:\Users\derk.wang\Documents\Visual Studio 2013\Projects\WCFApplication\ConsoleApplication\bin\Debug\EmployeeManagementConsole.exe
+C:\Users\derk.wang\Documents\Visual Studio 2013\Projects\WCFApplication\ConsoleApplication\bin\Debug\EmployeeManagementConsole.pdb
+C:\Users\derk.wang\Documents\Visual Studio 2013\Projects\WCFApplication\ConsoleApplication\bin\Debug\EmployeeModel.dll
+C:\Users\derk.wang\Documents\Visual Studio 2013\Projects\WCFApplication\ConsoleApplication\bin\Debug\EmployeeModel.pdb
+C:\Users\derk.wang\Documents\Visual Studio 2013\Projects\WCFApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\derk.wang\Documents\Visual Studio 2013\Projects\WCFApplication\ConsoleApplication\obj\Debug\EmployeeManagementConsole.exe
+C:\Users\derk.wang\Documents\Visual Studio 2013\Projects\WCFApplication\ConsoleApplication\obj\Debug\EmployeeManagementConsole.pdb

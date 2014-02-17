@@ -1,0 +1,16 @@
+<employees>
+  <employee isAvailable="TrueOrFalse" phonenumber="PhoneNumber" address="Address" birth="Birth" gender="Gender" lastname="LastName" firstname="FirstName" id="ID" />
+  <employee isAvailable="false" phonenumber="11111111" address="23" birth="2014/02/10" gender="M" lastname="12312" firstname="12312" id="1" />
+  <employee isAvailable="false" phonenumber="33333333" address="3333" birth="02/13/2014" gender="M" lastname="3" firstname="3" id="2" />
+  <employee isAvailable="false" phonenumber="33333333" address="3333" birth="02/05/2014" gender="M" lastname="3" firstname="3" id="3" />
+  <employee isAvailable="false" phonenumber="33333333" address="3333" birth="02/05/2014" gender="M" lastname="3" firstname="3" id="4" />
+  <employee isAvailable="false" phonenumber="33333333" address="3333" birth="02/05/2014" gender="M" lastname="3" firstname="3" id="5" />
+  <employee isAvailable="false" phonenumber="33333333" address="3333" birth="02/05/2014" gender="M" lastname="3" firstname="3" id="6" />
+  <employee isAvailable="false" phonenumber="33333333" address="3333" birth="02/05/2014" gender="M" lastname="3" firstname="3" id="7" />
+  <employee isAvailable="false" phonenumber="44444444" address="5" birth="02/13/2014" gender="M" lastname="6" firstname="4554" id="8" />
+  <employee isAvailable="true" phonenumber="55555555" address="5" birth="02/06/2014" gender="M" lastname="5" firstname="5" id="9" />
+  <employee isAvailable="true" phonenumber="22222222" address="22" birth="02/13/2014" gender="M" lastname="2" firstname="2" id="10" />
+  <employee isAvailable="true" phonenumber="11111111" address="2121" birth="02/14/2014" gender="M" lastname="12" firstname="21" id="11" />
+  <employee isAvailable="true" phonenumber="44444444" address="4" birth="02/17/2014" gender="M" lastname="54" firstname="54" id="12" />
+  <employee isAvailable="true" phonenumber="22222222" address="2" birth="02/17/2014" gender="M" lastname="2" firstname="2" id="13" />
+</employees>

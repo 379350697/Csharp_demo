@@ -1,0 +1,14 @@
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\WcfService\bin\WcfService.dll.config
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\WcfService\bin\WcfService.dll
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\WcfService\bin\WcfService.pdb
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\WcfService\bin\EmployeeDAL.dll
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\WcfService\bin\EmployeeModel.dll
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\WcfService\bin\IEmployeeDALN.dll
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\WcfService\bin\WebApplication.dll
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\WcfService\bin\EmployeeDAL.pdb
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\WcfService\bin\EmployeeModel.pdb
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\WcfService\bin\IEmployeeDALN.pdb
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\WcfService\bin\WebApplication.pdb
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\WcfService\obj\Debug\WcfService.dll
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\WcfService\obj\Debug\WcfService.pdb

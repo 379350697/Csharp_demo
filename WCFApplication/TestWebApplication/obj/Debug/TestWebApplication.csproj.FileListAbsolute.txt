@@ -1,0 +1,7 @@
+C:\Users\derk.wang\documents\visual studio 2013\Projects\WebApplication\TestWebApplication\bin\Debug\TestWebApplication.dll
+C:\Users\derk.wang\documents\visual studio 2013\Projects\WebApplication\TestWebApplication\bin\Debug\TestWebApplication.pdb
+C:\Users\derk.wang\documents\visual studio 2013\Projects\WebApplication\TestWebApplication\bin\Debug\WebApplication.dll
+C:\Users\derk.wang\documents\visual studio 2013\Projects\WebApplication\TestWebApplication\bin\Debug\WebApplication.pdb
+C:\Users\derk.wang\documents\visual studio 2013\Projects\WebApplication\TestWebApplication\obj\Debug\TestWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\derk.wang\documents\visual studio 2013\Projects\WebApplication\TestWebApplication\obj\Debug\TestWebApplication.dll
+C:\Users\derk.wang\documents\visual studio 2013\Projects\WebApplication\TestWebApplication\obj\Debug\TestWebApplication.pdb

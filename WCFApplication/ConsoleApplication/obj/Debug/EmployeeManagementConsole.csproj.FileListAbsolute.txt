@@ -1,0 +1,8 @@
+c:\users\derk.wang\documents\visual studio 2013\Projects\EmployeeManagementConsole\EmployeeManagementConsole\bin\Debug\EmployeeManagementConsole.exe.config
+c:\users\derk.wang\documents\visual studio 2013\Projects\EmployeeManagementConsole\EmployeeManagementConsole\obj\Debug\EmployeeManagementConsole.csprojResolveAssemblyReference.cache
+c:\users\derk.wang\documents\visual studio 2013\Projects\EmployeeManagementConsole\EmployeeManagementConsole\bin\Debug\EmployeeManagementConsole.exe
+c:\users\derk.wang\documents\visual studio 2013\Projects\EmployeeManagementConsole\EmployeeManagementConsole\bin\Debug\EmployeeManagementConsole.pdb
+c:\users\derk.wang\documents\visual studio 2013\Projects\EmployeeManagementConsole\EmployeeManagementConsole\obj\Debug\EmployeeManagementConsole.exe
+c:\users\derk.wang\documents\visual studio 2013\Projects\EmployeeManagementConsole\EmployeeManagementConsole\obj\Debug\EmployeeManagementConsole.pdb
+C:\Users\derk.wang\Documents\Visual Studio 2013\Projects\EmployeeManagementConsole\EmployeeManagementConsole\bin\Debug\WebApplication.dll
+C:\Users\derk.wang\Documents\Visual Studio 2013\Projects\EmployeeManagementConsole\EmployeeManagementConsole\bin\Debug\WebApplication.pdb

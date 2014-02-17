@@ -1,0 +1,4 @@
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\EmployeeModel\bin\Debug\EmployeeModel.dll
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\EmployeeModel\bin\Debug\EmployeeModel.pdb
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\EmployeeModel\obj\Debug\EmployeeModel.dll
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\EmployeeModel\obj\Debug\EmployeeModel.pdb

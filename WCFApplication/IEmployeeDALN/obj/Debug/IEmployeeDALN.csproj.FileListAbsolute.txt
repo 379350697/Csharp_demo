@@ -1,0 +1,7 @@
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\IEmployeeDALN\bin\Debug\IEmployeeDALN.dll
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\IEmployeeDALN\bin\Debug\IEmployeeDALN.pdb
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\IEmployeeDALN\bin\Debug\EmployeeModel.dll
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\IEmployeeDALN\bin\Debug\EmployeeModel.pdb
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\IEmployeeDALN\obj\Debug\IEmployeeDALN.dll
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\IEmployeeDALN\obj\Debug\IEmployeeDALN.pdb
+c:\users\derk.wang\documents\visual studio 2013\Projects\WCFApplication\IEmployeeDALN\obj\Debug\IEmployeeDALN.csprojResolveAssemblyReference.cache

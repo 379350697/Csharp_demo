@@ -1,0 +1,9 @@
+<employees>
+  <employee isAvailable="TrueOrFalse" phonenumber="PhoneNumber" address="Address" birth="Birth" gender="Gender" lastname="LastName" firstname="FirstName" id="ID" />
+  <employee isAvailable="false" phonenumber="11111111" address="23" birth="2014/02/10" gender="M" lastname="12312" firstname="12312" id="1" />
+  <employee isAvailable="true" phonenumber="11111111" address="aa" birth="0001/01/01" gender="M" lastname="a" firstname="b" id="2" />
+  <employee isAvailable="false" phonenumber="22222222" address="aa" birth="0001/01/01" gender="M" lastname="a" firstname="b" id="3" />
+  <employee isAvailable="false" phonenumber="22222222" address="aa" birth="0001/01/01" gender="M" lastname="a" firstname="b" id="4" />
+  <employee isAvailable="true" phonenumber="22222222" address="aa" birth="0001/01/01" gender="M" lastname="a" firstname="b" id="5" />
+  <employee isAvailable="false" phonenumber="11111111" address="aa" birth="0001/01/01" gender="M" lastname="a" firstname="b" id="6" />
+</employees>
